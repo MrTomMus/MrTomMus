@@ -1,6 +1,6 @@
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[![codewars](https://www.codewars.com/users/mrtommus/badges/large)](https://www.codewars.com/users/mrtommus)
+[<img src="https://www.codewars.com/users/MrTomMus/badges/micro" />][Codewars]
 
 ### Hello, I'm Sergey Front-End Developer 👋
 
